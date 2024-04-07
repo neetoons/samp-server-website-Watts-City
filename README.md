@@ -1,7 +1,7 @@
 # samp-server-website-Watts-City
 
 <p align="center">
-    <img width="300" src="https://github.com/neetoons/samp-server-website-Watts-City/blob/main/preview.jpg" alt="website-preview">
+    <img width="300" src="https://github.com/neetoons/samp-server-website-Watts-City/blob/main/preview1.jpg" alt="website-preview">
 </p>
 
 <p align="center">
